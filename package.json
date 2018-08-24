@@ -1,0 +1,19 @@
+{
+  "name": "gradient-genarator",
+  "version": "1.0.0",
+  "description": "a color genarator app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hasansujon786/gradient-genarator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hasansujon786/gradient-genarator/issues"
+  },
+  "homepage": "https://github.com/hasansujon786/gradient-genarator#readme"
+}
