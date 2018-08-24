@@ -1,1 +1,1 @@
-# gradient-genarator
+# cool-gradient-genarator
